@@ -1,6 +1,6 @@
 # Global Tech Giants & Their Indian Alternatives 🇮🇳
 
-A curated list of top global websites and their Indian-owned alternatives. The primary criterion for an "Indian Alternative" is that the company is founded and headquartered in India, and/or majority-owned by an Indian entity or person.
+##### A curated list of top global websites and their Indian-owned alternatives. The primary criterion for an "Indian Alternative" is that the company is founded and headquartered in India, and/or majority-owned by an Indian entity or person.
 ---
 
 ## The Comparison List
@@ -21,3 +21,6 @@ A curated list of top global websites and their Indian-owned alternatives. The p
 | **Search Engine** | [Google](https://www.google.com)                      | *Currently, there is no widely-adopted Indian search engine that competes at a similar scale.* |
 
 *Last Updated: September 7, 2025*
+
+  Made with &#x2764; in INDIA 🇮🇳
+
